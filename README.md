@@ -7,16 +7,16 @@ AnotherVersionFirstTask.cpp - второй вариант создания эл�
 1. Создать два элементарных тела на выбор.
 Были выбраны тор и цилиндр.
 Создано две версии отображения: генерация через ElementarySolid (a) и GeometryRep (b).</br>
-a.
+a.</br>
 <img width="1285" height="728" alt="1 2_Тор" src="https://github.com/user-attachments/assets/5b44e835-2660-4699-ab46-391422b8290e" /></br>
 <img width="1287" height="729" alt="1 2_Цилиндр" src="https://github.com/user-attachments/assets/a8744b82-1693-47ee-a16a-11a646cb7aab" /></br>
-b.
+b.</br>
 <img width="1285" height="726" alt="1_Тор" src="https://github.com/user-attachments/assets/1a206773-3ef2-4e0d-b6e2-e51c6e0432e4" /></br>
 <img width="1283" height="730" alt="1_Цилиндр" src="https://github.com/user-attachments/assets/bd959aef-ea68-4ca9-b451-68f655c5a21c" /></br>
 
 3. Тело, полученное в результате выполнения булевой операции.
 Два варианта: вычитание (a) и пересечение (b).
-Рядом с результатом операции изначальные объекты и их положение.
+Рядом с результатом операции изначальные объекты и их положение.</br>
 a.</br>
 <img width="1286" height="728" alt="2 2_Булево_Вычитание" src="https://github.com/user-attachments/assets/835f3d36-8f9b-4220-8380-6dc6b464e100" /></br>
 b.</br>
@@ -29,9 +29,9 @@ b.</br>
 6. Тела заметания по цилиндрической винтовой линии вращения ромбов с углами 30
 и 40 градусов. При построении ромба использовать Solver.</br>
 Ромб 30 градусов (a) и 40 градусов (b).</br>
-a.
+a.</br>
 <img width="1285" height="725" alt="4 1_Заметание_30" src="https://github.com/user-attachments/assets/4c4e5031-d8a5-4a6e-bc69-10eb2117860f" /></br>
-b.
+b.</br>
 <img width="1285" height="726" alt="4 3_Заметание_40" src="https://github.com/user-attachments/assets/91588a0a-bea3-4e13-86c5-c508bcd7792d" /></br>
 
 Отличие между 30 и 40 градусами.</br>
